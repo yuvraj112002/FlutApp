@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c434b6a6f0459740a983006ae371f270ab01548eac076a83011fae761d225406"
+build_start_time: [1689803138, 713379000]
+build_end_time: [1689803151, 122548000]
+inputs:
+  "/Users/kunal/flut_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1689803113, 507458083]
+  "/Users/kunal/flut_app/macos/Runner/AppDelegate.swift": [1689202922, 0]
+  "/Users/kunal/flut_app/macos/Runner/MainFlutterWindow.swift": [1689202922, 0]
